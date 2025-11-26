@@ -47,15 +47,20 @@ Welcome to my GitHub portfolio. Below are some of my personal and professional p
 
 **UR5 Pick-and-Place Simulation with ROS2 & Gazebo**
 
-* Simulates a UR5 robotic arm performing pick-and-place tasks on a red cube with AprilTag detection
-* Uses an onboard camera, quaternions for orientation, and SVD for pose estimation
+* Simulate a UR5 robotic arm performing pick-and-place tasks on a red cube with AprilTag detection
+* Use an onboard camera, quaternions for orientation, and SVD for pose estimation
 * Archive of ROS2 packages provided for easy import and experimentation in Gazebo
 * Repository: [github.com/ninjamath3/ur5-simulation](https://github.com/ninjamath3/ur5-simulation)
 
+**Researches in hand-eye calibration improvements - Python tools**
+* Assess the efficiency of Machine Learning to improve hand-eye calibration precision
+* Code some tools to simulate the hand-eye calibration with four points
+* Repository : [github.com/ninjamath3/hand-eye-calibration](https://github.com/ninjamath3/hand-eye-calibration)
+
 **Researches in number theory - Python tools**
 
-* Investigated new patterns in prime numbers 
-* Created some tools in python to verify my theories
+* Investigate new patterns in prime numbers 
+* Create some tools in python to verify my theories
 * Repository: [github.com/ninjamath3/prime-number-theories](https://github.com/ninjamath3/prime-number-theories)
 
 ## Contact
