@@ -17,7 +17,40 @@ Hi, I'm Mathys, an engineer specialized in computer sciences, computer vision an
 * Developed a geolocation-based AR game using React Native and Expo
 * Designed a modular base management system and energy modules
 * Built a github repository to manage static data concerning bases implemented at different coordinates
-* Repository: [github.com/username/alien-surveillance]
+
+# Mathys – Portfolio of Projects
+
+Welcome to my GitHub portfolio. Below are some of my personal and professional projects showcasing my work in mobile applications, web development, data processing, and robotics.
+
+---
+
+## Projects
+
+**Alien Surveillance Protocol – Mobile AR Game**
+
+* Developed a geolocation-based AR game using React Native and Expo
+* Designed a modular base management system and energy modules
+* Built a private github repository to store static data concerning bases implemented at different coordinates
+
+**GLC_FCS30D Data Processing for Mobile Game**
+
+* Processes the GLC_FCS30D global land cover dataset to generate bases and analyze landscape composition for a mobile game
+* Automates data downloading, TIFF file exploration, JSON/CSV output generation, and map visualization
+* Repository: [github.com/ninjamath3/ASPbases-python](https://github.com/ninjamath3/ASPbases-python)
+
+**VocaXP – English Learning Web App (React + Python)**
+
+* First personal web application to help French speakers learn English
+* Backend Python scripts handle word translation, definition retrieval, scoring system, and CSV data management
+* Frontend built with React, TypeScript, and Tailwind CSS for dynamic updates and interactive gameplay
+* Repository: [github.com/ninjamath3/vocaXP](https://github.com/ninjamath3/vocaXP)
+
+**UR5 Pick-and-Place Simulation with ROS2 & Gazebo**
+
+* Simulates a UR5 robotic arm performing pick-and-place tasks on a red cube with AprilTag detection
+* Uses an onboard camera, quaternions for orientation, and SVD for pose estimation
+* Archive of ROS2 packages provided for easy import and experimentation in Gazebo
+* Repository: [github.com/ninjamath3/ur5-simulation](https://github.com/ninjamath3/ur5-simulation)
 
 **Researches in number theory - Python tools**
 
