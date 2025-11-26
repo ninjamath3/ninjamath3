@@ -23,7 +23,7 @@ Hi, I'm Mathys, an engineer specialized in computer sciences, computer vision an
 
 * Investigated new patterns in prime numbers 
 * Created some tools in python to verify my theories
-* Repository: [github.com/username/alien-surveillance]
+* Repository: [github.com/ninjamath3/prime-number-theories](https://github.com/ninjamath3/prime-number-theories)
 
 ## Contact
 * Email: [mathys.fillinger@gmail.com](mailto:mathys.fillinger@gmail.com)
