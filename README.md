@@ -26,7 +26,7 @@ Welcome to my GitHub portfolio. Below are some of my personal and professional p
 
 ## Projects
 
-**Alien Surveillance Protocol – Mobile AR Game**
+**Alien Surveillance Protocol – Mobile AR Game** (React Native)
 
 * Developed a geolocation-based AR game using React Native and Expo
 * Designed a modular base management system and energy modules
