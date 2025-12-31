@@ -2,6 +2,12 @@
 
 Hi, I'm Mathys, an engineer specialized in computer sciences, computer vision and robotics. I build innovative solutions that combine real-time data processing, camera and robot monitoring, mobile app development, or AI solutions.
 
+This repository acts as a portfolio of multiple independent projects.
+Each folder represents a standalone project with its own README
+explaining the context, approach, and technical choices.
+
+This structure was chosen to centralize experimental and finished work.
+
 ## Skills
 
 * Programming: Python, TypeScript, JavaScript, React, React Native, Expo, C, C++, HTML, CSS,
