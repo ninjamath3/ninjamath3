@@ -1,10 +1,10 @@
 # Mathys – Generalist engineer specialized in robotics and computer vision 
 
-Hi, I'm Mathys, an engineer specialized in computer sciences, computer vision and robotics. I build innovative solutions that combine real-time data processing, camera and robot monitoring, mobile app development, or AI solutions.
+Hi, I'm Mathys, a generalist engineer specialized in computer vision and robotics. I build innovative solutions that combine real-time data processing,
+camera and robot monitoring, mobile app development, or AI solutions.
 
 This repository acts as a portfolio of multiple independent projects.
-Each folder represents a standalone project with its own README
-explaining the context, approach, and technical choices.
+Each folder represents a standalone project with its own README explaining the context, approach, and technical choices.
 
 This structure was chosen to centralize experimental and finished work.
 
@@ -18,7 +18,7 @@ This structure was chosen to centralize experimental and finished work.
 
 ## Mathys – Portfolio of Projects
 
-Welcome to my GitHub portfolio. Below are selected personal and professional projects showcasing my work in robotics, data processing, embedded systems, and software engineering.
+Below are selected personal and professional projects showcasing my work in robotics, data processing, embedded systems, and software engineering.
 
 The main project presentations are directly available here:
 
