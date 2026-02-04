@@ -16,7 +16,7 @@ This structure was chosen to centralize experimental and finished work.
 * Mobile & Web Development: Full-stack apps, real-time data processing, geolocation services
 * Tools & Platforms: Git, AsyncStorage, Firebase, Cloudflare, Ros2, Figma, Piskel, Vscode
 
-# Mathys – Portfolio of Projects
+## Mathys – Portfolio of Projects
 
 Welcome to my GitHub portfolio. Below are selected personal and professional projects showcasing my work in robotics, data processing, embedded systems, and software engineering.
 
