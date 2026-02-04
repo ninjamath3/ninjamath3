@@ -1,4 +1,4 @@
-# Mathys – AI & Computer Vision Developer
+# Mathys – Generalist engineer specialized in robotics and computer vision 
 
 Hi, I'm Mathys, an engineer specialized in computer sciences, computer vision and robotics. I build innovative solutions that combine real-time data processing, camera and robot monitoring, mobile app development, or AI solutions.
 
